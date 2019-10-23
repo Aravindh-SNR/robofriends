@@ -1,0 +1,10 @@
+.robot {
+    background: rgb(160, 219, 230);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.robot:hover {
+    transform: scale(1.05);
+    transition: transform 0.25s;
+}

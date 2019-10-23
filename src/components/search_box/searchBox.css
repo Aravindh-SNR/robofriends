@@ -1,0 +1,11 @@
+.searchBox {
+    display: flex;
+    justify-content: center;
+}
+
+.searchBox input {
+    padding: 5px;
+    border-radius: 5px;
+    width: 250px;
+    background: rgb(204, 232, 236);
+}
